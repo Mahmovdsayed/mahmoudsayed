@@ -4,6 +4,7 @@ import "./globals.css";
 import { Providers } from "@/providers/providers";
 import Nav from "@/components/Layout/Navbar";
 import Footer from "@/components/Layout/Footer";
+import { Analytics } from "@vercel/analytics/react"
 
 const inter = Inter({ subsets: ["latin"], weight: ['100', '200', '400', '300', '600', '500', '700', '800', '900'] });
 
@@ -43,6 +44,7 @@ export default function RootLayout({
     <html lang="en" className="dark">
       <body className={`${inter.className}`}>
         <Providers>
+          <Analytics />
           <main className="overflow-hidden">
             <Nav />
             {children}

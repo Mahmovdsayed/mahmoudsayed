@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   creator: "Mahmoud Sayed",
   openGraph: {
     images: [
-      "https://res.cloudinary.com/dxvpvtcbg/image/upload/v1715112694/grxnyungq54y9bqx1vae.svg",
+      "https://res.cloudinary.com/dxvpvtcbg/image/upload/v1715114007/oczye8csanxxzg9ksxqz.png",
     ],
     title: "Mahmoud Sayed",
     description: "I am a skilled MERN Stack developer with a passion for crafting innovative and robust web applications. My technical expertise lies in building and developing both the front-end and back-end of applications using React.js, Node.js, Express.js, and MongoDB. I am constantly striving to enhance user experience and performance by implementing best practices in UI design, state management, and performance optimization.With my broad knowledge of web development technologies, I am able to efficiently achieve project goals. My capabilities also extend to building and implementing efficient and secure databases tailored to the application's needs, as well as testing and ensuring the quality of applications to ensure their compatibility and optimal performance.",
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
     title: "Mahmoud Sayed",
     description: "I am a skilled MERN Stack developer with a passion for crafting innovative and robust web applications. My technical expertise lies in building and developing both the front-end and back-end of applications using React.js, Node.js, Express.js, and MongoDB. I am constantly striving to enhance user experience and performance by implementing best practices in UI design, state management, and performance optimization.With my broad knowledge of web development technologies, I am able to efficiently achieve project goals. My capabilities also extend to building and implementing efficient and secure databases tailored to the application's needs, as well as testing and ensuring the quality of applications to ensure their compatibility and optimal performance.",
     images: [
-      "https://res.cloudinary.com/dxvpvtcbg/image/upload/v1715112694/grxnyungq54y9bqx1vae.svg",
+      "https://res.cloudinary.com/dxvpvtcbg/image/upload/v1715114007/oczye8csanxxzg9ksxqz.png",
     ],
   },
 };

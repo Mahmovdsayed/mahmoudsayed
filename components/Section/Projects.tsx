@@ -10,7 +10,7 @@ const Projects = ({ }: IProps) => {
         <div className="mt-4">
             <Divider />
             <h2 className="text-2xl flex items-center justify-center font-bold uppercase my-3 text-default-600"><span className="me-2"> <FaCode /></span> Projects <span className="ms-2"> <FaCode /></span></h2>
-            <div className=" grid grid-cols-1 md:grid-cols-2 lg:grid-cols-2 gap-2">
+            <div className=" grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2">
                 {projects.map((pro) =>
                     <Card className="max-w-lg m-auto">
                         <CardHeader>{pro.title}</CardHeader>

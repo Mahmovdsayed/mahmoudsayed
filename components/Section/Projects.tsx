@@ -14,7 +14,7 @@ const Projects = ({ }: IProps) => {
                 {projects.map((pro) =>
                     <Card className="max-w-lg m-auto">
                         <CardHeader>{pro.title}</CardHeader>
-                        <CardBody><Image className="object-cover h-[300px]" src={pro.ImageUrl} /></CardBody>
+{/*                         <CardBody><Image className="object-cover h-[300px]" src={pro.ImageUrl} /></CardBody> */}
                         <CardFooter className="flex-col">
                             <p className="text-tiny text-start text-default-500">{pro.description}</p>
                             <Button as={Link} color="primary" showAnchorIcon href={pro.projectLink} target="_blank" className="mt-3 w-full">Project Link</Button>

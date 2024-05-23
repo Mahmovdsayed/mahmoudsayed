@@ -16,11 +16,7 @@ const About = ({ }: IProps) => {
             <Chip size="sm" variant="dot" color="warning">Available For Work</Chip>
             <h1 className="font-semibold my-3 text-4xl">Mahmoud Sayed</h1>
             <Card className=" md:w-1/2 m-auto">
-                <p className="p-4 text-tiny text-default-600  px-5">I am a skilled MERN Stack developer with a passion for crafting innovative and robust web applications. My technical expertise lies in building and developing both the front-end and back-end of applications using React.js, Node.js, Express.js, and MongoDB.
-
-                    I am constantly striving to enhance user experience and performance by implementing best practices in UI design, state management, and performance optimization. With my broad knowledge of web development technologies, I am able to efficiently achieve project goals.
-
-                    My capabilities also extend to building and implementing efficient and secure databases tailored to the application's needs, as well as testing and ensuring the quality of applications to ensure their compatibility and optimal performance.</p>
+                <p className="p-4 text-tiny text-default-600  px-5">I am a skilled MERN Stack developer with a passion for crafting innovative and robust web applications. My technical expertise lies in building and developing both the front-end and back-end of applications using React.js, Node.js, Express.js, and MongoDB. I am constantly striving to enhance user experience and performance by implementing best practices in UI design, state management, and performance optimization</p>
             </Card>
             <Chip className="my-3" radius="sm" variant="flat" color="secondary">MERN STACK Developer</Chip>
             <div className="space-x-2 mb-4">

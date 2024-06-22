@@ -19,7 +19,7 @@ const Banner = ({ }: IProps) => {
                             className={"w-screen h-[200px] lg:h-[300px]  object-cover object-center"}
                             radius="none"
                             isBlurred={true}
-                            src={`https://i.pinimg.com/originals/c8/f5/37/c8f5372e4e5b3e340050d7c9daf48db4.gif`}
+                            src={`https://i.pinimg.com/564x/cb/be/53/cbbe53813cb8c0c85ddeda0d23de874d.jpg`}
                             alt={'banner'}
                         />
                     </ScrollShadow>

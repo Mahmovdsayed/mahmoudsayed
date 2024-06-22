@@ -16,9 +16,9 @@ const Banner = ({ }: IProps) => {
                     >
                         <Image
                             isZoomed
-                            className={"w-screen h-[200px] lg:h-[300px]  object-cover object-center"}
+                            className={"w-screen h-[200px] lg:h-[300px]  object-cover object-contain"}
                             radius="none"
-                            isBlurred={true}
+                            isBlurred
                             src={`https://i.pinimg.com/564x/cb/be/53/cbbe53813cb8c0c85ddeda0d23de874d.jpg`}
                             alt={'banner'}
                         />

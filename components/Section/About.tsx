@@ -25,10 +25,11 @@ const About = ({ }: IProps) => {
                 <Button href="https://twitter.com/mahmovdsayed" target="_blank" className="bg-[#191919]" isIconOnly as={Link} radius="sm" size="md" startContent={<FaXTwitter />}></Button>
                 <Button href="https://www.instagram.com/mahmovdsayed" target="_blank" className="bg-[#E1306C]" isIconOnly as={Link} radius="sm" size="md" startContent={<AiFillInstagram />}></Button>
             </div>
-            <iframe className="rounded-2xl md:w-1/2 m-auto" src="https://open.spotify.com/embed/track/0YThXX1dqUpYBLyJNAsF9N?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+            <iframe className="rounded-2xl md:w-1/2 m-auto" src="https://open.spotify.com/embed/track/0KQFzbhsLq2D70jiug9l2P?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
             <Skils />
             <Projects />
         </div>
     </>;
 };
 export default About;
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0KQFzbhsLq2D70jiug9l2P?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

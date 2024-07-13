@@ -3,7 +3,7 @@ import Main from "@/components/Section/Main";
 export default function Home() {
 
   return <>
-    <main className="min-h-screen">
+    <main className="container mx-auto min-h-screen">
       <Main />
     </main>
   </>

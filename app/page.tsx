@@ -6,7 +6,7 @@ export default function Home() {
   return <>
     <main className="container mx-auto min-h-screen relative place-content-center">
       <Main />
-      <FuzzyOverlay />
+{/*       <FuzzyOverlay /> */}
     </main>
   </>
 }

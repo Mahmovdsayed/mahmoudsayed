@@ -15,7 +15,7 @@ const Banner = ({ }: IProps) => {
                         className="overflow-hidden"
                     >
                         <Image
-                            isZoomed
+                            
                             className={"w-screen h-[200px] lg:h-[300px]  object-cover object-center"}
                             radius="none"
                             isBlurred
